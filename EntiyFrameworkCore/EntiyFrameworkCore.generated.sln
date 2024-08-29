@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EntiyFrameworkCore", "EntiyFrameworkCore\EntiyFrameworkCore.csproj", "{62C6FD56-6BE0-45E2-A2D3-26E3D35257AA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EntiyFrameworkCore", "EntiyFrameworkCore.csproj", "{685933C8-22A3-4D68-AECF-5B1487A44088}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{62C6FD56-6BE0-45E2-A2D3-26E3D35257AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{62C6FD56-6BE0-45E2-A2D3-26E3D35257AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{62C6FD56-6BE0-45E2-A2D3-26E3D35257AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{62C6FD56-6BE0-45E2-A2D3-26E3D35257AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{685933C8-22A3-4D68-AECF-5B1487A44088}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{685933C8-22A3-4D68-AECF-5B1487A44088}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{685933C8-22A3-4D68-AECF-5B1487A44088}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{685933C8-22A3-4D68-AECF-5B1487A44088}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
