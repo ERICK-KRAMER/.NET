@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EntiyFrameworkCore", "EntiyFrameworkCore\EntiyFrameworkCore.csproj", "{6AA2F4E0-1D1C-4194-A113-682EE245C0D6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EntiyFrameworkCore", "EntiyFrameworkCore.csproj", "{38C9DD02-3C66-4D51-B3DB-3F1CC22C6157}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{6AA2F4E0-1D1C-4194-A113-682EE245C0D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6AA2F4E0-1D1C-4194-A113-682EE245C0D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6AA2F4E0-1D1C-4194-A113-682EE245C0D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6AA2F4E0-1D1C-4194-A113-682EE245C0D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38C9DD02-3C66-4D51-B3DB-3F1CC22C6157}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38C9DD02-3C66-4D51-B3DB-3F1CC22C6157}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38C9DD02-3C66-4D51-B3DB-3F1CC22C6157}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38C9DD02-3C66-4D51-B3DB-3F1CC22C6157}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
