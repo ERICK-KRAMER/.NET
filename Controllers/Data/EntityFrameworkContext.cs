@@ -1,6 +1,7 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Controllers.Models;
+using Microsoft.EntityFrameworkCore;
 
-namespace Controllers.Models;
+namespace Controllers.Data;
 
 public partial class EntityFrameworkContext : DbContext
 {
